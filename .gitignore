@@ -4,3 +4,5 @@
 *.exe
 *.log
 go.sum
+#config.yaml should not be in repo
+config.yaml
