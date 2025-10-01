@@ -1,0 +1,7 @@
+#without secrets
+database:
+  host: "localhost"
+  user: "admin"
+  password: ""
+api:
+  key: ""
