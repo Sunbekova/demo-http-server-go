@@ -1,0 +1,6 @@
+*.env
+/bin/
+/pkg/
+*.exe
+*.log
+go.sum

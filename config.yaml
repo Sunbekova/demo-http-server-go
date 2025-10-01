@@ -1,0 +1,7 @@
+#Config file in a git repository
+database:
+  host: "localhost"
+  user: "admin"
+  password: "SuperSecretPassword123!" #Hard-coded secrets
+api:
+  key: "AKIA_FAKE_ACCESS_KEY_ABC123" #Hard-coded secrets API keys
